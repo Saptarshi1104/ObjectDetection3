@@ -1,0 +1,31 @@
+body{
+font-family: Century Gothic;
+background-position: center;
+background-size: cover;
+font-weight: bolder;
+}
+h1{
+width: 100%;
+font-size: 20px;
+margin: 0;
+}
+button{
+border-radius: 50px;
+border: none;
+width: 200px;
+height: 40px;
+background-color: white;
+}
+a:hover{
+text-decoration: none;
+color: green;
+}
+canvas{
+border-radius: 20px;
+box-shadow: 10px 10px 10px orangered;
+}
+#status{
+font-size: 18px;
+height: fit-content;
+width: fit-content;
+}
